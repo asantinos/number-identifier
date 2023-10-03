@@ -1,3 +1,9 @@
+/**
+ * @author Alejandro Santos
+ *
+ * Github repository: https://github.com/asantinos/number-identifier
+ */
+
 let numero = prompt("Ingresa un número:");
 numero = parseFloat(numero);
 
